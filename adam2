@@ -1,3 +1,5 @@
 testgit2 "adam2" ok
-testgit2 "adam2"
+testgit2 "adam2" fix bug
 edit...
+testgit2 "adam2" ...
+
